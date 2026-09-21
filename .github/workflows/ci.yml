@@ -39,7 +39,7 @@ jobs:
       - name: Stage 5 - Rollback Automático ante Fallo
         if: failure()
         run: |
-          echo "⚠️ Fallo detectado en las pruebas de aceptación o build."
+          echo "Fallo detectado en las pruebas de aceptación o build."
           echo "Ejecutando script de Rollback a la versión anterior estable..."
           echo "Tráfico redirigido y ambiente restaurado."
 

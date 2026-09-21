@@ -13,4 +13,4 @@ public class AcceptanceTest {
         boolean servicioActivo = true;
         assertTrue(servicioActivo, "El ambiente de Staging debe responder correctamente");
     }
-}
+} 

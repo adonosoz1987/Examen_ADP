@@ -1,6 +1,6 @@
-# Examen Final — Pipeline CI/CD, Acceptance Testing y Rollback
+# Examen Final 
 
-Este repositorio contiene la arquitectura de automatización de pruebas, la configuración del pipeline de Integración Continua (CI) y el flujo de Despliegue Continuo (CD) con mecanismos de resiliencia para el proyecto `Examen_ADP`.
+Este repositorio contiene la arquitectura de automatización de pruebas, la configuración del pipeline de Integración Continua (CI) y el flujo de Despliegue Continuo (CD) con mecanismos de resiliencia para el Examen de Asignatura almacenado en Repositorio como `Examen_ADP`.
 
 ---
 
@@ -12,7 +12,7 @@ Este repositorio contiene la arquitectura de automatización de pruebas, la conf
 * **Control de Versiones:** Git & GitHub
 * **Orquestador CI/CD:** GitHub Actions
 
----
+--- 
 
 ## Estructura del Proyecto
 

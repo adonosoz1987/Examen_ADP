@@ -14,4 +14,4 @@ public class CalculadoraIntegrationTest {
         int resultadoFinal = calc.restar(suma, 5);
         assertEquals(25, resultadoFinal, "La integración de operaciones suma y resta debe dar 25");
     }
-}
+} 
